@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="buy product" skipped="0" tests="1" time="41.32" timestamp="2020-06-21 08:17:00"><testcase name="buy product"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled
+co.com.sophos.tasks.FinishBuy.performAs(FinishBuy.java:24)
+co.com.sophos.tasks.SelectProduct.performAs(SelectProduct.java:25)
+co.com.sophos.stepdefinitions.BuyProductStepDefinition.theUserSelectAProduct(BuyProductStepDefinition.java:38)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase></testsuite>
